@@ -1,0 +1,4 @@
+user=SOME_USERNAME
+password=12345678
+dburl=SOME_DBURL
+useSSL=false
